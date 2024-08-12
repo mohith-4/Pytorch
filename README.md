@@ -4,7 +4,7 @@
 ## Models 
 * Regression model, i.e Linear Reg.
 * Classification model, Logistic Reg.(Single and Multi-class). 
-* 2d ConvNets for Comuter Vision.
+* 2d ConvNets for Computer Vision.
 * .
 * .
 * .

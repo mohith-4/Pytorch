@@ -5,7 +5,7 @@
 * Regression model, i.e Linear Reg.
 * Classification model, Logistic Reg.(Single and Multi-class). 
 * 2d ConvNets for Computer Vision.
-* .
+* DishVision --  "*Decoding Dishes, One Snapshot at a Time*"
 * .
 * .
 * Loading.......
